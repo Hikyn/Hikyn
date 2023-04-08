@@ -49,6 +49,16 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </a>
 
+## Getting in touch
+
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=darzhevskii@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/danila-rzhevskii-098a30271/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 
