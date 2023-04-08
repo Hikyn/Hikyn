@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Hikyn&color=blue)
+<!--![](https://komarev.com/ghpvc/?username=Hikyn&color=blue)-->
 
 
 ## My Tech Stack
