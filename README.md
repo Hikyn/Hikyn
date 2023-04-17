@@ -29,6 +29,12 @@
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </a>
 
+<a href="https://jestjs.io/">
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+</a>
+
+
+
 ## Web frameworks
 
 <a href="https://www.djangoproject.com/">
@@ -36,7 +42,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/en/2.2.x/">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=red" />
 </a>
 
 <a href="https://getbootstrap.com/">
