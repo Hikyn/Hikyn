@@ -1,6 +1,5 @@
 <!--![](https://komarev.com/ghpvc/?username=Hikyn&color=blue)-->
 
-
 ## My Tech Stack
 
 <a href="https://www.python.org/">
@@ -65,7 +64,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+## Stats
 
+[![Top Langs](https://github-readme-stats-sepia-alpha-49.vercel.app/api/top-langs/?username=hikyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
