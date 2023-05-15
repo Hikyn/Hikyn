@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/en/2.2.x/">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=red" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </a>
 
 <a href="https://getbootstrap.com/">
