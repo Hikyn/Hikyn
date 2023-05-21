@@ -63,6 +63,10 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </a>
 
+## Backend as a Service
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 ## Getting in touch
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=darzhevskii@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
