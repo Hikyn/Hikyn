@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
 
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
 <br/>
 
 <a href="https://www.npmjs.com/">
@@ -38,11 +41,15 @@
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </a>
 
-
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
 
 ## Web frameworks
-<a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </a>
 
 <a href="https://www.djangoproject.com/">
@@ -61,6 +68,10 @@
 
 <a href="https://sqlite.org/">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</a>
+
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
 ## Backend as a Service
