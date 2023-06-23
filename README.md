@@ -78,6 +78,12 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+## Database as a Service
+
+<a href="https://www.mongodb.com/atlas">
+  <img src="https://img.shields.io/badge/Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+
 ## Getting in touch
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=darzhevskii@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
