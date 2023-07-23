@@ -96,7 +96,7 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats-sepia-alpha-49.vercel.app/api/top-langs/?username=hikyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-hikyn.vercel.app/api/top-langs/?username=hikyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
