@@ -88,7 +88,7 @@
 
 ## Getting in touch
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=darzhevskii@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=danila.rzhevskii@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
