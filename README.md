@@ -1,5 +1,7 @@
 <!--![](https://komarev.com/ghpvc/?username=Hikyn&color=blue)-->
 
+<b>View my full portfolio</b>: https://hikyn.dev/
+
 ## My Tech Stack
 
 <a href="https://www.python.org/">
