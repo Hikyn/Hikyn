@@ -1,97 +1,73 @@
-<!--![](https://komarev.com/ghpvc/?username=Hikyn&color=blue)-->
+## 🛠️ My Tech Stack
 
-<b>View my full portfolio</b>: https://hikyn.dev/
-
-## My Tech Stack
-
+### Languages & Core
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
-
-<a href="https://de.wikipedia.org/wiki/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow" />
-</a>
-
 <a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </a>
-
-<br/>
-
-<a href="https://en.wikipedia.org/wiki/HTML5">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-<br/>
-
-<a href="https://www.npmjs.com/">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
 
-<a href="https://webpack.js.org/">
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+### Frameworks & Tools
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </a>
-
-<a href="https://jestjs.io/">
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-</a>
-
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-
-## Web frameworks
-
-
 <a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </a>
-
 <a href="https://www.djangoproject.com/">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </a>
-
-<a href="https://flask.palletsprojects.com/en/2.2.x/">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-</a>
-
 <a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </a>
 
-## Databases
-
-<a href="https://sqlite.org/">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</a>
-
+### Databases & Services
 <a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
+<a href="https://sqlite.org/">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</a>
+<a href="https://supabase.com/">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</a>
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</a>
+<a href="https://netlify.com/">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </a>
 
-## Backend as a Service
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-## Database as a Service
-
-<a href="https://www.mongodb.com/atlas">
-  <img src="https://img.shields.io/badge/Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+### AI & Automation
+<a href="https://www.comfyui.org/">
+  <img src="https://img.shields.io/badge/ComfyUI-FF6F00?style=for-the-badge&logo=ComfyUI&logoColor=white" alt="ComfyUI" />
+</a>
+<a href="https://grafana.com/">
+  <img src="https://img.shields.io/badge/Grafana-F2C811?style=for-the-badge&logo=grafana&logoColor=black" alt="Grafana" />
+</a>
+<a href="https://n8n.io/">
+  <img src="https://img.shields.io/badge/n8n-FF4D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </a>
 
-## Getting in touch
+---
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=danila.rzhevskii@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+## 📬 Getting in Touch
+
+<a href="mailto:danila.rzhevskii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
-
 <a href="https://www.linkedin.com/in/danila-rzhevskii-098a30271/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+---
